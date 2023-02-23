@@ -3,12 +3,6 @@
 ## 🚀 About Me
 
 🎓 I am Lucas Hunter, a **Back End Developer** (specializing in **Spring Boot Web Applications**). I am  Pursuing my Bachelor in **Computer Science** and will graduate in 2023.
-
-🏋 When I'm not programming, I enjoy pushing myself to new heights. I am a gym enthusiast and find great pleasure in staying active. 
-
-🎼 When I rather stay calm, I pursue music production. Creating art allows me to wind down and boost my creativity! 
-
-✈ Moreover, I love travelling. Backpacking throughout European countries helped me learn a lot about myself, these once-in-a-lifetime experiences will certainly not be forgotten anytime soon! 
  
 ## 🛠️ Skills
 
