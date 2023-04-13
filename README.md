@@ -4,7 +4,7 @@
 My name is Lucas! 
 
 ### 🌱 Recent Projects
-- ATS Resume Scanner
+- ATS Resume Scanner CHatbot
 - E-Commerce Templates
 - Spotify Clone
 
