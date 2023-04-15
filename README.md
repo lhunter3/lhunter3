@@ -10,7 +10,7 @@ My name is Lucas!
 ### 📚 Education
 Degree in Computer Science, from UNB, FALL 2023
 
-💻 Technical Skills
+### 💻 Technical Skills
 - Java
 - MySQL
 - RESTful API's
