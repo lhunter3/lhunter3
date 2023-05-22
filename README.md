@@ -3,6 +3,7 @@
 My name is Lucas! 
 
 ### 🌱 Recent Projects
+- Basic Programming Language
 - Resume Scan (ATS) Chatbot 
 - E-Commerce Templates
 - Spotify Clone
