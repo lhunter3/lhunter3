@@ -10,7 +10,7 @@ My name is Lucas!
 - Spotify Clone
 
 ### 📚 Education
-Degree in Computer Science, from UNB, FALL 2023
+Computer Science Undergraduate
 
 
 
