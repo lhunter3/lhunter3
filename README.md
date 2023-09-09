@@ -3,6 +3,7 @@
 My name is Lucas! 
 
 ### 🌱 Recent Projects
+- Strafe Optimizer
 - Basic Programming Language
 - Resume Scan (ATS) Chatbot 
 - E-Commerce Templates
